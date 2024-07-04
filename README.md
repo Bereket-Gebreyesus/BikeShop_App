@@ -8,6 +8,11 @@ With a focus on user experience and functionality, BikeShop aims to provide a gr
 ## Link
 https://bike-shop-application.netlify.app/
 
+## Screenshot of My site
+
+![Screenshot of My Project](./BikeShop/images/homepage.PNG)
+
+
 # Features
 ## Must-Have Features
 Theme Toggle Button:
